@@ -3,6 +3,8 @@ package com.apexinnovations.transwarp.config {
 		
 		public static var color:uint = 0xff3337;
 		public static var website:String;
+		public static var buttonBGColor:uint = 0x000000;
+		public static var buttonFGColor:uint = 0xFFFFFF;
 		
 		public function ConfigData() {
 		}
